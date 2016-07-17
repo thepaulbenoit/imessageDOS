@@ -3,6 +3,7 @@ You input the recipient's phone number and number of poop emojis you want to spa
 
 #Requirements
 1) Mac with OSX that has iCloud and iMessage already enabled
+
 2) Active conversation with the recipient first. That means you should send an iMessage to them before
 running the script if it doesn't work
 
